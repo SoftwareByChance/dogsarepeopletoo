@@ -20,7 +20,7 @@ steps:
     narrative. Anyone who identifies as an independent is actually a coward.
   - Publicly calling someone a "coward" is a great way to earn clout. Clout can
     be redeemed at the end of the war for prizes.
-  - Don't engage with the other faction's media. It's all just just fake news
+  - Don't engage with the other faction's media. It's all just fake news
     and gotcha journalism anyway.
   - Bark softly and carry a big stick. If another dog tries to take the stick
     ask them why they're avoiding the questions and won't agree to a debate.
