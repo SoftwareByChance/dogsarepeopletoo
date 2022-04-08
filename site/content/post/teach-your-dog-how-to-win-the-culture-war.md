@@ -9,6 +9,7 @@ steps:
   - Pick a starting faction. Despite the popular narrative to the contrary,
     class and race are largely determined by birth. Re-rolling gender is
     possible but may impact standing depending on your faction.
-  - cool
+  - Pick a specialization. Clout can be redeemed at the end of the war for
+    prizes.
 ---
 _wow_
