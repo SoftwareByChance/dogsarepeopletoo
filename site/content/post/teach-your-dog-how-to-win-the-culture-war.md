@@ -27,4 +27,4 @@ steps:
   - Now your dog is ready for the frontline of the culture war. Let's get out
     there and win this thing!
 ---
-I believed that children were the future. But they had their chance. Now it's your dog's turn.
+*I believed that children were the future. But they had their chance. Now it's your dog's turn.*
