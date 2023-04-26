@@ -1,6 +1,6 @@
 ---
 title: Teach Your Dog Beekeeping
-date: 2020-06-24T22:22:56.605Z
+date: 2022-06-24T22:22:56.605Z
 description: "Beekeeping is one of the fastest growing bee-related activities
   today. But despite the name, it takes more than just hanging onto the bees to
   be successful. Read on to discover how to introduce your dog to the
