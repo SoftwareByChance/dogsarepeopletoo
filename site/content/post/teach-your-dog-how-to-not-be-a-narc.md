@@ -1,7 +1,7 @@
 ---
 title: Teach Your Dog How to Not Be a Narc
 date: 2020-05-16T18:56:13.363Z
-description: If your dog is a good boy or girl it might be difficult for them to
+description: If your dog is a good boy it might be difficult for them to
   not be 100% truthful all of the time. This guide will help you explain the
   difference between "the truth" 😃 and "the truth" 😠.
 image: img/dog-narc.png
@@ -15,4 +15,4 @@ steps:
     trouble if they told on you.
   - Now hopefully your dog understands the importance of not being a snitch.
 ---
-*(just follow these simple steps)*
+*(if your dog is a cop they have to tell me)*

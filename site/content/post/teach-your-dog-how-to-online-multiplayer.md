@@ -29,8 +29,7 @@ steps:
     these losers and cracked the top 500 twice. There's no way these guys are
     that good. Even your dog has a higher K:D than you right now...  and that
     guy just CLIPPED into the room from NOWHERE!!!
-  - .....This is bullshit. Fuck this game. You're done with this. Sucks now
-    anyway.
+  - .....This is bullshit. You're done with this game. It sucks now anyway.
   - "Tell your dog to have fun playing that stupid game without you. People
     probably won't be playing it for much longer anyway with all those hackers.
     The devs don't care about the community anymore and it's driving away the

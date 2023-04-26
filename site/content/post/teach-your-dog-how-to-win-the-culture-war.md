@@ -8,22 +8,21 @@ description: Have you heard? There's a Culture War a-brewing and we need all
 image: img/dog-tug-of-war.jpeg
 steps:
   - Pick a starting faction. Be sure your dog picks the right one.
-  - Despite the popular narrative to the contrary, class and race are largely
-    determined by birth. Re-rolling gender is possible but may impact standing
-    depending on your faction.
-  - Pick a specialization. "Social Media Amplifier" is an easy one to start with
+  - Despite the popular narrative to the contrary, class and breed are largely
+    determined by birth. Re-rolling your dog's gender is possible but may impact standing
+    depending on the faction they chose in step 1.
+  - Have your dog pick a specialization. "Social Media Amplifier" is an easy one to start with
     as it only requires a home computer and 56k modem.
-  - Get informed. Be sure to have a position on Hillary Clinton. Watch TikTok
+  - Get informed. Be sure your dog has a position on Hillary Clinton, the shape
+    of the Earth, and which is the correct way to cut a sandwich. Watch TikTok
     and YouTube for the latest in-group lingo and best opinions from your
-    faction's thought-leaders.
-  - Neutrality is cringe. And so is satire and participating in the meta
-    narrative. Anyone who identifies as an independent is actually a coward.
-  - Publicly calling someone a "coward" is a great way to earn clout. Clout can
+    dog's faction's thought-leaders.
+  - Neutrality is a no-go and the independent faction doesn't exist. If your dog wants to create satirical content and
+    participate in the meta narrative the will require additional training.
+  - Publicly calling someone out on social media for expressing an opinion is a great way to earn clout. Clout can
     be redeemed at the end of the war for fabulous prizes.
-  - Don't engage with the other faction's media. It's all just fake news
-    and gotcha journalism anyway.
-  - Bark softly and carry a big stick. If another dog tries to take the stick
-    ask them why they're avoiding the questions and won't agree to a debate.
+  - Don't let your dog engage with the other faction's media.
+  - If another dog tries to take their stick ask them why they're avoiding the questions and won't agree to a debate.
   - Now your dog is ready for the frontline of the culture war. Let's get out
     there and win this thing!
 ---
