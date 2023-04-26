@@ -1,6 +1,6 @@
 ---
 title: Teach Your Dog How to Join the Singularity (or Teach Your Dog to Drive a Car, Because Why Not?)
-date: 2022-04-25T08:40:02.469Z
+date: 2023-04-25T08:40:02.469Z
 description: Ubiquitous AI is just around the corner and your dog could be replaced as the beloved family pet by one of them robo-mutts if they're not ready. In honor of the forthcoming dog-vs-machine struggle this guide was written by ChatGPT.
 image: img/dog-vs-machine.jpeg
 steps:
